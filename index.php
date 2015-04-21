@@ -1,6 +1,6 @@
 <?php
 
-define("TOKEN", "mytoken");
+define("TOKEN", "lztuzhuang");
 $wechatObj = new wechatCallbackapiTest();
 $wechatObj->valid();
 
