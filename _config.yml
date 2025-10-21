@@ -1,0 +1,26 @@
+title: "CodeLee's Website"
+description: "Welcome to my personal site — I share projects, ideas, and notes here."
+author: "CodeLee"
+email: "lh.lizheng@gmail.com"
+
+url: "https://knowno.github.io"
+baseurl: ""
+
+theme: minima
+show_excerpts: true
+paginate: 5
+paginate_path: "/page:num/"
+
+github_username: knowno
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+footer:
+  copyright: "© 2025 CodeLee. All rights reserved."
