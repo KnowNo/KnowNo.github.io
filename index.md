@@ -11,4 +11,4 @@ Here I share:
 - 🧠 Notes on learning and problem solving  
 - ✨ Thoughts on technology and creativity  
 
-👉 Check out my [About Me](about) page to learn more.
+
