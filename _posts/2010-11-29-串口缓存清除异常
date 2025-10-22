@@ -1,0 +1,16 @@
+伪代码如下：
+```c++
+int timer()
+{//周期执行
+     Purge(PURGE_RXCLEAR);//读之前清一下输入缓存区，在WIN7上多次执行后，这句会异常，而在XP上不会！！！！
+     mcom.ReadFile(buf,1);//从输入缓存区中读1个字节
+}
+```
+在网上搜索了好久，也没有找到可以信服的原因，为什么WIN7上会出现问题，而XP上不会！！！
+
+最终我选择的方法是，不用Purge(PURGE_RXCLEAR)来清输入缓存区，而把输入缓存区的内容读出来，达到清输入缓存区的目的
+
+参考资源：http://www.vckbase.com/document/viewdoc/?id=1734
+
+                        
+原文链接：https://blog.csdn.net/lizheng308/article/details/6043722
