@@ -4,13 +4,13 @@ title: About Me
 permalink: /about/
 ---
 
-# About Me 👨‍💻
+# 自白
 
-Hi! I'm **CodeLee**, a developer passionate about embedded systems, real-time communication, and open-source technology.
+一个普通码农.
 
 This site is built with **GitHub Pages + Jekyll**, using the **Minima** theme.
 
-- 📫 Email: [lh.lizheng@gmail.com](mailto:lh.lizheng@gmail.com)
+- 📫 Email: [448467580@qq.com](mailto:448467580@qq.com)
 - 🌐 GitHub: [@knowno](https://github.com/knowno)
 
 > “Keep learning, keep building.”
