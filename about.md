@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Me
+title: 自白
 permalink: /about/
 ---
 
-# 自白
+
 
 一个普通码农.
 
