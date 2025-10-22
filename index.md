@@ -4,7 +4,7 @@ title: Welcome
 ---
 
 # 👋 Hi, I'm CodeLee  
-Welcome to my personal website!
+欢迎来到一个普通码农的日常笔记本
 
 Here I share:
 - 💻 Coding projects and open-source work  
